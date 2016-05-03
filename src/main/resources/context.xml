@@ -28,7 +28,7 @@
 
             <!-- or "Recipient List" -->
             <recipientList>
-                <simple>${property.testPropertyProcessed}</simple>
+                <simple>${property.dynamicURIName}</simple>
             </recipientList>
 
             <!-- or "Dynamic To" (since in Camel 2.16) -->
